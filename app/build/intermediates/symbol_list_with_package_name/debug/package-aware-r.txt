@@ -2071,10 +2071,10 @@ id horizontal_only
 id icon
 id icon_group
 id ifRoom
+id igHungerLogo
 id ignore
 id ignoreRequest
 id image
-id imageView
 id immediateStop
 id included
 id info
@@ -2319,6 +2319,8 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
+id tvDont
+id tvSignupLink
 id unchecked
 id uniform
 id unlabeled
@@ -2409,7 +2411,9 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_login
 layout activity_main
+layout activity_signup
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -2429,7 +2433,6 @@ layout design_text_input_start_icon
 layout fragment_dashboard
 layout fragment_home
 layout fragment_notifications
-layout login
 layout material_chip_input_combo
 layout material_clock_display
 layout material_clock_display_divider

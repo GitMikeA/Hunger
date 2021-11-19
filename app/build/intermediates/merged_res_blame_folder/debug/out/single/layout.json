@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_login.xml",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/layout/activity_login.xml"
+    },
+    {
         "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_dashboard.xml",
         "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/layout/fragment_dashboard.xml"
     },
@@ -18,5 +22,9 @@
     {
         "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_home.xml",
         "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_signup.xml",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/layout/activity_signup.xml"
     }
 ]
