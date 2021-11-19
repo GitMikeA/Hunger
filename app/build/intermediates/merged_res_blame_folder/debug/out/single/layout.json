@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_dashboard.xml",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/login.xml",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/layout/login.xml"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_notifications.xml",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/layout/fragment_notifications.xml"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_home.xml",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/layout/fragment_home.xml"
+    }
+]
