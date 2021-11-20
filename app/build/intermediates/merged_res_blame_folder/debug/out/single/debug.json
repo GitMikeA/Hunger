@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/merged_res/debug/drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/drawable/ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/merged_res/debug/drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/drawable/ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/merged_res/debug/mipmap-hdpi_workinglogo.png.flat",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/mipmap-hdpi/workinglogo.png"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/merged_res/debug/mipmap-xhdpi_workinglogo.png.flat",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/mipmap-xhdpi/workinglogo.png"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_workinglogo_foreground.png.flat",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/mipmap-xxhdpi/workinglogo_foreground.png"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/merged_res/debug/mipmap-hdpi_workinglogo_round.png.flat",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/mipmap-hdpi/workinglogo_round.png"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_workinglogo_round.png.flat",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/mipmap-xxhdpi/workinglogo_round.png"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/merged_res/debug/layout_activity_login.xml.flat",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/merged_res/debug/navigation_mobile_navigation.xml.flat",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_workinglogo_foreground.png.flat",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/mipmap-xxxhdpi/workinglogo_foreground.png"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/merged_res/debug/layout_fragment_dashboard.xml.flat",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_workinglogo.png.flat",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/mipmap-xxhdpi/workinglogo.png"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/merged_res/debug/mipmap-mdpi_workinglogo.png.flat",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/mipmap-mdpi/workinglogo.png"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/merged_res/debug/mipmap-xhdpi_workinglogo_round.png.flat",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/mipmap-xhdpi/workinglogo_round.png"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/merged_res/debug/drawable_workinglogo_background.xml.flat",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/drawable/workinglogo_background.xml"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_workinglogo.png.flat",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/mipmap-xxxhdpi/workinglogo.png"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/merged_res/debug/menu_bottom_nav_menu.xml.flat",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_workinglogo_round.xml.flat",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/mipmap-anydpi-v26/workinglogo_round.xml"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/merged_res/debug/mipmap-mdpi_workinglogo_foreground.png.flat",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/mipmap-mdpi/workinglogo_foreground.png"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/merged_res/debug/mipmap-mdpi_workinglogo_round.png.flat",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/mipmap-mdpi/workinglogo_round.png"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/merged_res/debug/layout_fragment_notifications.xml.flat",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/layout/fragment_notifications.xml"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/merged_res/debug/mipmap-xhdpi_workinglogo_foreground.png.flat",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/mipmap-xhdpi/workinglogo_foreground.png"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/merged_res/debug/mipmap-hdpi_workinglogo_foreground.png.flat",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/mipmap-hdpi/workinglogo_foreground.png"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_workinglogo.xml.flat",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/mipmap-anydpi-v26/workinglogo.xml"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/merged_res/debug/layout_fragment_home.xml.flat",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/merged_res/debug/drawable_ic_home_black_24dp.xml.flat",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/drawable/ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/merged_res/debug/layout_activity_signup.xml.flat",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/layout/activity_signup.xml"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_workinglogo_round.png.flat",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/mipmap-xxxhdpi/workinglogo_round.png"
+    },
+    {
+        "merged": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    }
+]
