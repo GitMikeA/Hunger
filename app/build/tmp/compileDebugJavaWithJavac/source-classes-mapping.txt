@@ -1,35 +1,35 @@
-com/example/hunger1/databinding/ActivitySignupBinding.java
- com.example.hunger1.databinding.ActivitySignupBinding
+com/example/hunger1/ui/notifications/NotificationsViewModel.java
+ com.example.hunger1.ui.notifications.NotificationsViewModel
 com/example/hunger1/ui/notifications/NotificationsFragment.java
  com.example.hunger1.ui.notifications.NotificationsFragment
  com.example.hunger1.ui.notifications.NotificationsFragment$1
 com/example/hunger1/ui/home/HomeViewModel.java
  com.example.hunger1.ui.home.HomeViewModel
-com/example/hunger1/databinding/FragmentDashboardBinding.java
- com.example.hunger1.databinding.FragmentDashboardBinding
-com/example/hunger1/databinding/FragmentHomeBinding.java
- com.example.hunger1.databinding.FragmentHomeBinding
-com/example/hunger1/databinding/FragmentNotificationsBinding.java
- com.example.hunger1.databinding.FragmentNotificationsBinding
+com/example/hunger1/ui/dashboard/DashboardFragment.java
+ com.example.hunger1.ui.dashboard.DashboardFragment
+ com.example.hunger1.ui.dashboard.DashboardFragment$1
+com/example/hunger1/BuildConfig.java
+ com.example.hunger1.BuildConfig
+com/example/hunger1/ui/home/HomeFragment.java
+ com.example.hunger1.ui.home.HomeFragment
+ com.example.hunger1.ui.home.HomeFragment$1
 com/example/hunger1/ui/dashboard/DashboardViewModel.java
  com.example.hunger1.ui.dashboard.DashboardViewModel
 com/example/hunger1/databinding/ActivityLoginBinding.java
  com.example.hunger1.databinding.ActivityLoginBinding
-com/example/hunger1/MainActivity.java
- com.example.hunger1.MainActivity
-com/example/hunger1/BuildConfig.java
- com.example.hunger1.BuildConfig
-com/example/hunger1/ui/dashboard/DashboardFragment.java
- com.example.hunger1.ui.dashboard.DashboardFragment
- com.example.hunger1.ui.dashboard.DashboardFragment$1
-com/example/hunger1/LoginActivity.java
- com.example.hunger1.LoginActivity
-com/example/hunger1/databinding/ActivityMainBinding.java
- com.example.hunger1.databinding.ActivityMainBinding
-com/example/hunger1/ui/notifications/NotificationsViewModel.java
- com.example.hunger1.ui.notifications.NotificationsViewModel
-com/example/hunger1/ui/home/HomeFragment.java
- com.example.hunger1.ui.home.HomeFragment
- com.example.hunger1.ui.home.HomeFragment$1
 com/example/hunger1/SignupActivity.java
  com.example.hunger1.SignupActivity
+com/example/hunger1/databinding/ActivitySignupBinding.java
+ com.example.hunger1.databinding.ActivitySignupBinding
+com/example/hunger1/databinding/ActivityMainBinding.java
+ com.example.hunger1.databinding.ActivityMainBinding
+com/example/hunger1/LoginActivity.java
+ com.example.hunger1.LoginActivity
+com/example/hunger1/databinding/FragmentHomeBinding.java
+ com.example.hunger1.databinding.FragmentHomeBinding
+com/example/hunger1/databinding/FragmentDashboardBinding.java
+ com.example.hunger1.databinding.FragmentDashboardBinding
+com/example/hunger1/MainActivity.java
+ com.example.hunger1.MainActivity
+com/example/hunger1/databinding/FragmentNotificationsBinding.java
+ com.example.hunger1.databinding.FragmentNotificationsBinding

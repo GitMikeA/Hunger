@@ -6,45 +6,45 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/AndroidManifest.xml
+8-->C:\Users\aimem\AndroidStudioProjects\Hungerfinal\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="31" />
-9-->/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/AndroidManifest.xml
+9-->C:\Users\aimem\AndroidStudioProjects\Hungerfinal\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/AndroidManifest.xml:5:5-22:19
+11-->C:\Users\aimem\AndroidStudioProjects\Hungerfinal\app\src\main\AndroidManifest.xml:5:5-22:19
 12        android:allowBackup="true"
-12-->/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/AndroidManifest.xml:6:9-35
+12-->C:\Users\aimem\AndroidStudioProjects\Hungerfinal\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-13-->[androidx.core:core:1.5.0] /Users/josephrodas/.gradle/caches/transforms-3/97e7ec19bd11dff7ae3d399ac9d0fa5b/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+13-->[androidx.core:core:1.5.0] C:\Users\aimem\.gradle\caches\transforms-3\97e7ec19bd11dff7ae3d399ac9d0fa5b\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
 14        android:debuggable="true"
 15        android:icon="@mipmap/ic_launcher"
-15-->/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/AndroidManifest.xml:7:9-43
+15-->C:\Users\aimem\AndroidStudioProjects\Hungerfinal\app\src\main\AndroidManifest.xml:7:9-43
 16        android:label="@string/app_name"
-16-->/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/AndroidManifest.xml:8:9-41
+16-->C:\Users\aimem\AndroidStudioProjects\Hungerfinal\app\src\main\AndroidManifest.xml:8:9-41
 17        android:roundIcon="@mipmap/ic_launcher_round"
-17-->/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/AndroidManifest.xml:9:9-54
+17-->C:\Users\aimem\AndroidStudioProjects\Hungerfinal\app\src\main\AndroidManifest.xml:9:9-54
 18        android:supportsRtl="true"
-18-->/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/AndroidManifest.xml:10:9-35
+18-->C:\Users\aimem\AndroidStudioProjects\Hungerfinal\app\src\main\AndroidManifest.xml:10:9-35
 19        android:testOnly="true"
 20        android:theme="@style/Theme.Hunger1" >
-20-->/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/AndroidManifest.xml:11:9-45
+20-->C:\Users\aimem\AndroidStudioProjects\Hungerfinal\app\src\main\AndroidManifest.xml:11:9-45
 21        <activity
-21-->/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/AndroidManifest.xml:12:9-21:20
+21-->C:\Users\aimem\AndroidStudioProjects\Hungerfinal\app\src\main\AndroidManifest.xml:12:9-21:20
 22            android:name="com.example.hunger1.LoginActivity"
-22-->/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/AndroidManifest.xml:13:13-42
+22-->C:\Users\aimem\AndroidStudioProjects\Hungerfinal\app\src\main\AndroidManifest.xml:13:13-42
 23            android:exported="true"
-23-->/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/AndroidManifest.xml:14:13-36
+23-->C:\Users\aimem\AndroidStudioProjects\Hungerfinal\app\src\main\AndroidManifest.xml:14:13-36
 24            android:label="@string/app_name" >
-24-->/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/AndroidManifest.xml:15:13-45
+24-->C:\Users\aimem\AndroidStudioProjects\Hungerfinal\app\src\main\AndroidManifest.xml:15:13-45
 25            <intent-filter>
-25-->/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/AndroidManifest.xml:16:13-20:29
+25-->C:\Users\aimem\AndroidStudioProjects\Hungerfinal\app\src\main\AndroidManifest.xml:16:13-20:29
 26                <action android:name="android.intent.action.MAIN" />
-26-->/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/AndroidManifest.xml:17:17-69
-26-->/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/AndroidManifest.xml:17:25-66
+26-->C:\Users\aimem\AndroidStudioProjects\Hungerfinal\app\src\main\AndroidManifest.xml:17:17-69
+26-->C:\Users\aimem\AndroidStudioProjects\Hungerfinal\app\src\main\AndroidManifest.xml:17:25-66
 27
 28                <category android:name="android.intent.category.LAUNCHER" />
-28-->/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/AndroidManifest.xml:19:17-77
-28-->/Users/josephrodas/AndroidStudioProjects/Hunger/app/src/main/AndroidManifest.xml:19:27-74
+28-->C:\Users\aimem\AndroidStudioProjects\Hungerfinal\app\src\main\AndroidManifest.xml:19:17-77
+28-->C:\Users\aimem\AndroidStudioProjects\Hungerfinal\app\src\main\AndroidManifest.xml:19:27-74
 29            </intent-filter>
 30        </activity>
 31    </application>

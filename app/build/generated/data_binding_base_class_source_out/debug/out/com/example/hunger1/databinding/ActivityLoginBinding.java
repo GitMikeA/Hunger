@@ -32,7 +32,7 @@ public final class ActivityLoginBinding implements ViewBinding {
   public final EditText etpassword;
 
   @NonNull
-  public final ImageView igHungerLogo;
+  public final ImageView ivLoginLogo;
 
   @NonNull
   public final TextView tvDont;
@@ -41,13 +41,13 @@ public final class ActivityLoginBinding implements ViewBinding {
   public final TextView tvSignupLink;
 
   private ActivityLoginBinding(@NonNull ConstraintLayout rootView, @NonNull Button btLogin,
-      @NonNull EditText etUsername, @NonNull EditText etpassword, @NonNull ImageView igHungerLogo,
+      @NonNull EditText etUsername, @NonNull EditText etpassword, @NonNull ImageView ivLoginLogo,
       @NonNull TextView tvDont, @NonNull TextView tvSignupLink) {
     this.rootView = rootView;
     this.btLogin = btLogin;
     this.etUsername = etUsername;
     this.etpassword = etpassword;
-    this.igHungerLogo = igHungerLogo;
+    this.ivLoginLogo = ivLoginLogo;
     this.tvDont = tvDont;
     this.tvSignupLink = tvSignupLink;
   }
@@ -97,9 +97,9 @@ public final class ActivityLoginBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.igHungerLogo;
-      ImageView igHungerLogo = ViewBindings.findChildViewById(rootView, id);
-      if (igHungerLogo == null) {
+      id = R.id.ivLoginLogo;
+      ImageView ivLoginLogo = ViewBindings.findChildViewById(rootView, id);
+      if (ivLoginLogo == null) {
         break missingId;
       }
 
@@ -116,7 +116,7 @@ public final class ActivityLoginBinding implements ViewBinding {
       }
 
       return new ActivityLoginBinding((ConstraintLayout) rootView, btLogin, etUsername, etpassword,
-          igHungerLogo, tvDont, tvSignupLink);
+          ivLoginLogo, tvDont, tvSignupLink);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

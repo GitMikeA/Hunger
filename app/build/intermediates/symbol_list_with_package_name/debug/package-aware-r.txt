@@ -1173,6 +1173,7 @@ color error_color_material_dark
 color error_color_material_light
 color foreground_material_dark
 color foreground_material_light
+color gray_textbox
 color highlighted_text_material_dark
 color highlighted_text_material_light
 color material_blue_grey_800
@@ -1823,6 +1824,7 @@ drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable ic_notifications_black_24dp
+drawable logotemp2_background
 drawable material_cursor_drawable
 drawable material_ic_calendar_black_24dp
 drawable material_ic_clear_black_24dp
@@ -1859,7 +1861,6 @@ drawable notify_panel_notification_icon_bg
 drawable test_custom_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
-drawable workinglogo_background
 id ALT
 id BOTTOM_END
 id BOTTOM_START
@@ -2082,6 +2083,7 @@ id invisible
 id inward
 id italic
 id item_touch_helper_previous_elevation
+id ivLoginLogo
 id jumpToEnd
 id jumpToStart
 id labeled
@@ -2504,9 +2506,9 @@ layout text_view_without_line_height
 menu bottom_nav_menu
 mipmap ic_launcher
 mipmap ic_launcher_round
-mipmap workinglogo
-mipmap workinglogo_foreground
-mipmap workinglogo_round
+mipmap logotemp2
+mipmap logotemp2_foreground
+mipmap logotemp2_round
 navigation mobile_navigation
 plurals mtrl_badge_content_description
 string abc_action_bar_home_description

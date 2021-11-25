@@ -56,7 +56,7 @@
         android:layout_height="374dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:srcCompat="@mipmap/workinglogo"
+
         tools:layout_editor_absoluteY="6dp" />
 
 
